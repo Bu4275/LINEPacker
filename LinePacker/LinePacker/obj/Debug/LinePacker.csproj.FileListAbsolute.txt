@@ -1,0 +1,6 @@
+c:\users\bubu\documents\visual studio 2015\Projects\LinePacker\LinePacker\bin\Debug\LinePacker.exe.config
+c:\users\bubu\documents\visual studio 2015\Projects\LinePacker\LinePacker\bin\Debug\LinePacker.exe
+c:\users\bubu\documents\visual studio 2015\Projects\LinePacker\LinePacker\bin\Debug\LinePacker.pdb
+c:\users\bubu\documents\visual studio 2015\Projects\LinePacker\LinePacker\obj\Debug\LinePacker.csprojResolveAssemblyReference.cache
+c:\users\bubu\documents\visual studio 2015\Projects\LinePacker\LinePacker\obj\Debug\LinePacker.exe
+c:\users\bubu\documents\visual studio 2015\Projects\LinePacker\LinePacker\obj\Debug\LinePacker.pdb
